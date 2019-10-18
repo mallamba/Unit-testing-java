@@ -1,3 +1,10 @@
+/**
+ *
+ * @author Louay Khalil
+ */
+
+
+
 public class Clock {
 
     private Time theTime;
