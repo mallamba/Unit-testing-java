@@ -2,8 +2,11 @@
 Implementation of a machine state diagram with J-unit testing.
 
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
 Rovar - Part 1
+
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
 A java class for testing:
 
 package com.company;
@@ -95,19 +98,30 @@ public final class rovar
 }
 
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 
+
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
 Time class implementation and unit testing
+
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
 Time and Date need to be implemented
-![Alt text](images/clock.png?raw=true "Time & Date")
+
+![Alt text](images/clock.PNG?raw=true "Time & Date")
+
 
 
 Clock class need to be implemented
-![Alt text](images/state.png?raw=true "Clock")
+
+![Alt text](images/state.PNG?raw=true "Clock")
+
 
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
 
